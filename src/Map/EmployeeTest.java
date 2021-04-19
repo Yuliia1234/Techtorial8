@@ -13,6 +13,7 @@ public class EmployeeTest {
         //        //-create a method to print only employee names from map
         //        //-print all employee ids from map
 
+
         Map< Integer,Employee> employees = new HashMap<>();
         Employee set1 = new Employee("Julia", "Chicago", 24);
         Employee set2 = new Employee("Ivanka", "New York", 25);
